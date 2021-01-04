@@ -1,0 +1,8 @@
+pp_size = int(input(" Enter your pp size in cms "))
+if pp_size < 5:
+   lana = input(" Do you like Lana Rhodes? Answer yes or no")
+   if lana == 'yes' :
+      print (" Hello to smol pp world ")
+else: 
+   print (" Get lost or fuck off please ")
+   print (" Thank you ")
